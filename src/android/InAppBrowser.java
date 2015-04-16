@@ -76,6 +76,7 @@ public class InAppBrowser extends CordovaPlugin {
     private static final String EXIT_EVENT = "exit";
     private static final String LOCATION = "location";
     private static final String TOOLBAR = "toolbar";
+    private static final String ZOOM = "zoom";
     private static final String HIDDEN = "hidden";
     private static final String LOAD_START_EVENT = "loadstart";
     private static final String LOAD_STOP_EVENT = "loadstop";
